@@ -26,12 +26,6 @@ Our results provide evidence consistent with a “Digital J-Curve” dynamic. Un
 
 ---
 
-## 📂 Repository Structure
-* `/data/`: Contains the processed panel dataset (in CSV/DTA formats).
-* `/scripts/`: Empirical execution codes (Stata `.do` files or Python/R scripts for MM-QR).
-* `/results/`: Tables, quantile plots, and robustness check outputs.
-
----
 
 ## 💻 How to Replicate
 1. Clone this repository:
